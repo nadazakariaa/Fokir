@@ -2,8 +2,8 @@ body{
     font-family:"Roboto",sans-serif;
 }
 *{
-    margin: 0;
-    padding: 0;
+    margin: 50;
+    padding: 100;
     box-sizing: border-box; /* css3 */
 }
 .clear{
@@ -348,6 +348,7 @@ h1.section-title::before {
     right: 20px;
     color: #EC2403;
 }
+.
 .portfolio-item img{
     width: 100%;
 
