@@ -1,9 +1,11 @@
 body{
     font-family:"Roboto",sans-serif;
 }
+
+/* Hello Form Nada */
 *{
-    margin: 50;
-    padding: 100;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box; /* css3 */
 }
 .clear{
